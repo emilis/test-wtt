@@ -1,0 +1,762 @@
+Parko g. 12A, Vilnius
+Pailių km, Šiaulių raj.
+Dvaro g. 5, Klaipėda
+Savanorių pr. 225, Kaunas
+Sausių kaimas, Trakų r.
+Kuncų g. 16 - 14, Klaipėda
+Žemaitės g. 58, Salantai, Kretingos r.
+Dvaro g.5, Klaipėda
+Liepkalnio g. 97, Vilnius
+Rodūnios kelias 11, Vilnius
+Laisvės pr. 125, Vilnius
+Savanorių pr. 151A, Vilnius
+Jundeliškių k., Birštonas
+Šaulių g. 13-6, Klaipėda
+Stoties g. 17, Plungė
+Švenčionių g. 37, Ignalina
+Kalvarijų g. 130 - 13, Vilnius
+Musninkų g. 18 - 55, Vilnius
+Savanorių pr. 139A , Vilnius
+Dambrava, Prienai
+uosiu km., Vilkaviškio r.
+Elektronikos g. 1, Panevėžys
+Pašušvys, Radviliškio r.
+P. Vileišio g. 18 - 266, Vilnius
+Naujoji g. 140, Alytus
+Vyžuonėlių km., Utena
+Ukmergės r., Žeimių k., Vilnius
+Kurmėlių km., Ukmergės r.
+Kelmijos Sodų 39-oji g . 20, Vilnius
+Olimpiečių g. 1 - 14, Vilnius
+Kalvarijų g. 204A, Vilnius
+S. Žukausko g. 25 - 27, Vilnius
+Kalvarijos g. 38, Kaunas
+Kauno g. 53, Elektrėnų r.
+Linksmoji g. 47 - 57, Vilnius
+Kauno g. 32, Vilnius
+Savanorių pr. 176-206, Vilnius
+Šviesos g. 5-57, Vilnius
+J.Grušo g. 4 - 36, Kaunas
+Kruojos 3, Šniūraičių k., Radviliškio r.
+Švyturio g 5, Plikių mstl., Klaipėdos r.
+Pramonės g. 16 D, Alytus
+Venslaviškio g. 13, Panevėžys
+Karlų km., Visaginas
+Turgaus 9-2, Molėtai
+Pramonės g 16D, Alytus
+Linksmakalnis, Liepų g., Kauno r.
+Raudondvario pl. 157-301, Kaunas
+Drūkšiniai, Visaginas
+Pikutiškių k,Avižienių sen., Vilniaus r.
+Smolensko g. 6-320, Vilnius
+Daukniūnai, Panevėžio r.
+Radvilų Dvaro g. 6, Kaunas
+V.Grybo g. 41-2, Vilnius
+Islandijos pl. 197, Kaunas
+Paryžiaus Komunos g. 25, Klaipėda
+Bubliškių km., Pagėgiai
+Pramonės g. 9, Šiauliai
+Savanorių pr. 124, Vilnius
+Lentvario g. 3, Vilnius
+Eglyno g. 9, Panevėžys
+Birutės g. 1, Klaipėda
+Naujojo Ryto takas 3, Šiauliai
+Gerosios Vilties g. 17A, Vilnius
+Žeimenos g. 8A, Kaunas
+Agaro g. 5, Biržai
+Tiekėjų g. 7A, Kretinga
+Mokyklos g. 1B, Vilnius
+Sietyno g. 1, Panevėžys
+V.A. Graičiūno g. 34, Vilnius
+R. Kalantos g. 13, Kaunas
+Birželio 23-iosios g. 27 B, Kaunas
+Raudondvario pl. 174 B, Kaunas
+Dubysos g. 60A, Klaipėda
+Sudervės kelias 3,Šeškinėje, Vilnius
+Savanorių pr. 151A, Vilnius
+Liepų g. 73A, Klaipėda
+Dūmų g. 3, Vilnius
+Tilžės g. 49, Klaipėda
+Lakūnų g. 30, Vilnius
+Kepyklos g. 17, Alytus
+J.Kazlausko g. 1, Vilnius
+J. Vienožinskio g. 58, Kaunas
+Linų g. 71, Ukmergė
+Upės g. 5, Vilnius
+Savanoriu pr. 339a, Kaunas
+Butkų Juzės g. 11, Klaipėda
+Kirtimų g. 2, Vilnius
+Smėlynės 112, Panevėžys
+Žirnių g. 26, Vilnius
+Mokyklos g. 1B, Vilniaus r.
+Linkmenų g. 38, Vilnius
+Smalinės g. 23, Vilnius
+Pravieniškių II k., Kaišiadorių r.
+Draugystės g. 19, Kaunas
+Uosio g. 10, Kaunas
+Savanorių pr. 271, Kaunas
+Radvilėnų pl. 8, Kaunas
+Naujadvario g. 11C, Kaunas
+Siūlų g. 3, Kaunas
+J. Žemgulio g. 46., Panevėžys
+Gariūnų g.49, Vilnius 
+Sėlių g. 48 - 1, Vilnius
+Taikos pr. 141, Kaunas
+Šilutės pl. 27, Klaipėda
+Centrinė g. 2a, Kauno r.
+Mokyklos g. 1B, Vilniaus r.
+Vytauto pr. 19 - 18, Kaunas
+Linkmenų g. 13, Vilnius
+Rodūnios kelias 34, Vilnius
+Linksmakalnis, Liepų g. , Kauno r.
+Metalo g. 10, Vilnius
+Draugystės g. 17, Kaunas
+Ukmergės g. 315c, Vilnius
+Draugystės g. 19, Kaunas
+Gelvonų g. 2, Vilnius
+Kirtimų g. 43, Vilnius
+Islandijos pl. 179a, Kaunas
+Zarasų g. 5, Vilnius
+Sabališkių g. 1A, Elektrėnai
+Savanorių pr. 187, Vilnius
+Krokuvos g. 8, Vilnius
+Butrimonių g. 5, Kaunas
+Kauno g. 51, Ukmergė
+Tvirtovės al. 27, Kaunas
+Žirnių g. 12, Vilnius
+Gedimino g. 55, Kaišiadorys
+Laisvės pr. 125a, Vilnius
+Ukmergės g. 294, Vilnius
+Žalgirio g. 119, Vilnius
+Baltijos g. 90a, Kaunas
+Žalgirio g. 88, Vilnius
+Dariaus ir Girėno g. 20, Vilnius
+Oslog g. 1, Vilnius
+J.Kubiliaus g.18, Vilnius
+Islandijos pl. 97-187, Kaunas
+Raudondvario pl. 101, Kaunas
+Lakūnų g. 8, Vilnius
+Draugystės g. 9G, Kaunas
+Žalgirio g. 90, Vilnius
+Paribio g. 53a, Vilnius
+Linksmoji g. 5, Vilnius 
+Savanorių pr. 174A, Vilnius
+Verkių g. 30b, Vilnius
+Stumbrų g. 15, Vilnius
+Savanorių pr. 79, Kaunas
+Kalvarijų g. 125, 1korp., Vilnius
+Verkių g. 32A, Vilnius
+Vilkpėdės g. 8, Vilnius
+Europos pr. 67, Kaunas
+Ukmergės g. 425, Vilnius
+Kalvarijų g. 53, Vilnius
+Savanorių pr. 339c, Kaunas
+R. Kalantos g. 49, Kaunas
+A. Juozapavičiaus pr. 34, Kaunas 
+Islandijos pl. 115, Kaunas, Kaunas
+Piliakalnio g. 15, Vilnius
+V. Krėvės pr. 97, Kaunas
+Pakalnės g. 4, Vilnius
+Dusios g. 7 , Kaunas
+Veiverių g. 63, Kaunas
+Technikos g. 4a, Kaunas
+J. Kubiliaus g. 18, Vilnius
+Ukmergės g. 315C, Vilnius
+Karkiškių km., Kaunas
+Raudondvario pl. 166, Kaunas
+Lvovo g. 105, Vilnius
+Geologų g. 6, Vilnius
+Kuršių g. 9a-15, Kaunas
+Kareivių g. 7, Vilnius
+P. Lukšio g. 7, Vilnius
+Draugystės g. 17, Kaunas
+Pakraščio g. 10, Vilnius
+Naugarduko g. 72, Vilnius
+Gaižiūnų g. 5A, Kaunas 
+Kubiliaus g. 23, Vilnius
+Šiltnamių g. 28, Vilnius
+Islandijos pl. 213e, Kaunas
+Partizanų g. 21c, Kaunas
+Tautos g. 11, Garliava, Kauno r.
+Savanorių pr. 178A, Vilnius
+Buivydiškių g. 12A, Vilnius
+49223 Garažo koop. 157, Ašigalio g. 28, garažas 9, Kaunas
+Gelvonų g. 2, Vilnius
+Vilnius
+Elektrinės g. 3, Vilnius
+Panerių g. 56, Kaunas
+Gaižiūnų g. 5, Kaunas 
+Taikos pr. 103A, Kaunas
+Statybininkų g. 9, Kaunas
+A. P. Kavoliuko g. 8A, Vilnius
+T. Masiulio g. 18k, Kaunas
+Armatūrininkų g.1, Kaunas
+Kalvarijų g. 125, 5 korp., Vilnius
+Kęstučio g. 1, Kaišiadorys
+Minties g. 3a, Vilnius
+Kalvarijų g. 296, Vilnius
+Partizanų g. 87A, Kaunas
+Kauno g. 43, Ukmergė
+Gaižiūnų 5, Kaunas
+Lukšio g. 18, Vilnius
+Partizanų g. 63M, Kaunas
+Kalnų g. 64A - 1, Jonava
+Jonavos g. 106, Kaunas
+Žirmūnų g. 54b, Vilnius
+Dariaus ir Girėno 34, Vilnius
+Partizanų g. 63e, Kaunas
+Pelesos g. 2, Vilnius
+Linksmoji g. 3a, Vilnius
+Islandijos pl. 69, LT 49118, Kaunas
+Lakūnų g. 7, Vilnius
+Kauno g. 49A, Ukmergė
+Sausio 13-osios g. 8A, Vilnius
+Lakūnų g. 28/J. Kubiliaus g. 23, Vilnius
+Žeimenos g. 19, Kaunas
+Dzūkų g. 101, Vilnius
+Panerių g. 1a, Kaunas
+mono g. 1a, Kaunas
+Kalnų g. 4a, Kaunas
+Upės g. 5, Vilnius
+Sietyno g. 8, Vilnius
+Kranto al. 4, Kaunas
+Savanorių 65b, Vilnius
+Kalvarijų g. 143B, Vilnius
+Laisvės pr. 125A, Vilnius
+Baltų pr. 54, Kaunas
+J. Basanavičiaus g. 89, Kėdainiai
+Kirtimų g. 41a, Vilnius
+Draugystės g. 17, Kaunas
+Islandijos plentas 99-210, Kaunas
+Ukmergės g. 252, 06120 Vilnius
+Konstitucijos pr. 23, C korp. Vilnius, 
+Žirmūnų g. 141A, Vilnius
+Laisvės pr. 125, Vilnius
+Ašigalio g. 28, Kaunas
+Ateities g. 12, Vilnius
+A. Juozapavičiaus pr. 103, Kaunas
+Verkių g. 50, Vilnius
+Chemijos g. 8, Kaunas
+Ukmergės g. 19, Jonava
+R. Kalantos g. 147, Kaunas
+S. Stanevičiaus g. 14A, Vilnius
+Lakūnų g. 24., Vilnius
+Savanorių pr. 447A, Kaunas
+Karaliaus Mindaugo pr. 55, Kaunas
+Oslo g. 5, Vilnius
+Taikos pr. 103d, Kaunas
+Vilniaus g. 8, Grigiškės, Vilniaus m. sav.
+Kalvarijų g. 125, Vilnius
+Birželio 23-osios g. 15b, Kaunas
+Laisvės pr. 137, Vilnius
+Geležinio Vilko g. 53, 
+Pašilės g. 120a, Kaunas
+Justiniškių g. 124, Vilnius
+Laisvės pr. 3a/25a, Vilnius
+Vakarinis aplinkkelis 6A, Kaunas
+Maironio g. 80a, Raseiniai
+Savanorių pr. 231, LT02300 Vilnius
+Žalgirio g. 122, Vilnius
+Neringos g. 51a, Kaunas
+Ozo g. 20, Vilnius
+Aušros g. 7, Širvintos
+Žadeikos g. 1B, Vilnius
+Savanorių pr. 404G, Kaunas
+P.Lukšio g. 16, Vilnius
+Justiniškių g. 126D, Vilnius
+Švitrigailos g. 40A, Vilnius
+Pelesos g. 1/2, Vilnius
+Pirklių g. 9, Vilnius
+Partizanų g. 63E, Kaunas
+Verkių g. 34A, Vilnius
+Islandijos pl. 191a, Kaunas
+Taikos pr. 149, Kaunas
+Panerių g. 37, Vilnius
+Graičiūno g. 36, Vilnius
+Verkių g. 37C, Vilnius
+Laisvės pr. 125, Vilnius
+Gelvonų g. 2, Vilnius
+P. Lukšio g. 22, Vilnius
+Švitrigailos g. 40A, , VILNIUS
+Drobės g. 71, Kaunas
+Partizanų g. 87A, Kaunas
+Liepų g. 10, Raseiniai
+Islandijos pl. 213E, Kaunas
+Liepkalnio g. 26A, Vilnius
+Žirnių g. 10, Vilnius
+Vytenio g. 61, Vilnius
+Oslo g. 1, Vilnius
+Deltuvos g. 39f, Ukmergė
+F. Martišiaus g. 9, Prienai
+Dariaus ir Girėno g. 27, Kėdainiai
+Panerių g. 34, Vilnius
+Studentų g. 34b, Kaunas
+Savanorių pr. 174a, Vilnius
+Kuršių g. 9a, 12 boksas, Kaunas
+Kalniečių g. 104, Kaunas
+Panerių g. 222, Kaunas
+Oslo g. 5, Vilnius
+Kuršių g. 9a, Kaunas
+Molėtų g. 14-2, D.Riešės k., Vilniaus raj.
+Ūkininkų g. 6, Juragiai, Garliavos sen.
+Šilelio g. 4, Kėdainiai
+P. Lukšio g. 6, Vilnius
+Viršuliškių skg. 78, Vilnius
+Olandų g. 8A, Vilnius
+Europos pr. 71, Kaunas
+Elektrinės g., Elektrėnai
+J. Basanavičiaus g. 46 - 1, Kaišiadorys
+Revuonos g. 50, Prienai
+Ašigalio g. 1D, Kaunas
+Vilkpėdės g. 6A, Vilnius
+Elektrėnų g. 10, Kaunas
+Kęstučio g. 51, Kaunas
+Aukštadvario g. 9, Trakai
+V. Krėvės pr. 118a, Kaunas
+Kalvarijų g. 143, Vilnius
+Kalvarijos g. 53, Kaunas
+Žirnių g. 58, Vilnius
+Tirkliškių k., Kauno r.
+Gelvonų g. 2, Vilnius
+Lakūnų g. 15, Vilnius
+Žalgirio g. 131, Vilnius
+Verkių 50, Vilnius
+Savanorių pr. 139, Vilnius LT 03150 
+Didžioji g. 107, Kaunas
+Savanorių pr. 276, Vilnius
+Žemutinė g. 47, Švenčionėliai, Švenčionių r.
+Demokratų g. 53, Kaunas
+Paplaujos g. 5, Vilnius
+Vasario 16-osios g. , Garliava
+Savanorių pr. 174 R, Vilnius
+Ukmergės g. 128, Vilnius
+Skirmanto g. 2, Kaunas
+Uosio g. 10, , Kaunas
+Lakūnų g. 30, Vilnius
+Universiteto g. 5A, Kaunas
+Kalvarijų g. 13A, Kaunas
+Jonavos g. 40, Kaunas
+Lakūnų g. 30, Vilnius
+Algirdo g. 40, Vilnius
+Daugeliškių g. 32, Vilnius
+Švitrigailos g. 29, Vilnius
+Smolensko g. 19/1f, Vilnius
+Savanorių pr. 191, Vilnius, 
+Lakūnų g. 30, Vilnius
+Partizanų 87a, Kaunas
+Jankiškių g 43a, Vilnius
+M. Gimbutienės g. 35, Kaunas
+Visorių g. 8, 08300 Vilnius
+9-ojo forto g. 47, Kaunas 
+Šiltnamių g. 44, Vilnius
+Dumsių sen., Jonavos raj., Šveicarijos kk
+Veiverių g. 150, Kaunas
+Kalniečių g. 104, Kaunas
+Kalvarijų 143B, Vilnius
+Vileišio g. 18, Vilnius
+Ozo g. 10A, 08200 Vilnius
+Skirmanto g. 2, Kaunas
+Pelesos g. 1/2, Vilnius
+Ozo g. 6, Vilnius
+Dariaus ir Girėno g. 2, Vilnius
+Lazūnų g. 23, Kaunas
+P. Lukšio g. 18, Vilnius
+Kauno g. 30A, Vilnius
+Kalvarijos g. 11, Kaunas
+Vytauto g. 54, Ukmergė
+V. Kudirkos g. 9, Trakai
+Pakalnės g., Domeikava, Kauno raj.
+Vilniaus g. 3d, Raseiniai
+Raudondvario pl. 139A, Kaunas
+Savanorių pr. 219, Vilnius
+Perkūnkiemio g. 2, Vilnius
+T. Masiulio g. 18k, Kaunas
+Alsėdžių g. 16A, Kaunas
+Raudondvario pl. 116, Kaunas
+Jonavos g. 68, Kaunas
+Stasiūnų k., Žiežmarių sen., Kaišiadorių raj. 
+Vienožinskio g. 58/Neries kr. 34a, Kaunas
+Taikos pr. 135d, Kaunas
+Eigulių g. 16a, Vilnius
+Drobės g. 37, Kaunas
+Viduklės sen., 8 Raseiniai, Smiltynė
+Technikos g. 3, Kaunas
+Drobės g. 73, Kaunas
+Karmėlava, Kauno r., Narėpai
+Skaudvilės g. 5, Kaunas
+Geologų g. 6, Vilnius
+Pagiriu k., 53282 Kauno r.
+Elektrėnų g. 8f, Kaunas
+Vidurinė g. 8, Kaunas
+J. Jasinskio 14, Vilnius
+Elektrėnų g. 8a, Kaunas
+Žemynos g. 13B, Vilnius
+S. Lozoraičio g. 13, Kaunas
+Vadžiogalos pl. 106c, Domeikava
+Rytų g. 2, Ariogala, Raseinių r.
+Žeimių g. 93, Jonava
+J. Jasinskio g. 12, Vilnius
+Statybininkų g. 7a, Kaunas
+Olandų g. 8a, Vilnius
+Dariaus ir Girėno g. 99, Vilnius
+Jeruzalės g. 18, Vilnius
+Dubysos g. 4, Kaunas
+Sudervė
+Eišiškių pl. 47, Vilnius
+Verkių g. 39, Vilnius
+Šv. Stepono g. 35a, Vinius 
+Turgaus g. 44, Švenčionėliai, Švenčionių r.
+Vytauto g. 129, Garliava
+Chemijos g. 13b, Kaunas
+Guobų g.32, Vilnius
+Veiverių g. 48a, Kaunas
+Kranto g. 18, Dotnuva, Kėdainių r.
+Rasų g. 39, Vilnius
+Statybininkų g. 2a, Lentvaris, Trakų r.
+Seinų g. 22, Kaunas
+Pagėgių g. 7, Kaunas
+Naugarduko g. 96, Vilnius
+Linkuvos g. 67, Kaunas
+Pakalnės g. 5a, Domeikava, Kauno raj.
+V. Didžioko g. 4, Dovainonių k., Rumšiškių sen., Kaišiadorių raj.
+A.Vivulskio g. 41, Vilnius
+Plento g. 1, Jonava
+Elektrinės g. 8, Vilnius
+Pramonės pr. 20a, Kaunas
+Titnago g. 17, Vilnius
+Vandžiogalos pl. 106B, Kaunas
+Saulėlydžio g. 30, Kėdainiai
+Neringos g. 51, Kaunas
+Verkių g. 39, Vilnius
+Bituko g. 27, Kaunas
+Rudaminos g. 1A, Skaidiškių km., Nemėžio sen., Vilniaus r.
+Zarasų g. 5, Vilnius
+J. Kubiliaus g. 16, Vilnius
+Žemaičių pl. 36a, Kaunas
+Butrimonių g. 9, Kaunas
+Linų g. 71, Ukmergė
+Darbininkų g. 5a, Jonava
+Švenčionių g. 5, Kaunas
+J. Basanavičiaus g. 95, 57352 Kėdainiai
+Savanorių pr. 178, Vilnius
+Vilniaus g. 31, Trakai
+Vandžiogalos g. 94a, Sargėnai, Kaunas
+J. Basanavičiaus g. 13a, Kėdainiai
+Panerių g. 34, Vilnius
+Taikos g. 81b, Vilnius
+Kalnalaukio g. 10, Širvintos
+Vaitkaus g. 2, Vilnius
+Palemono g. 1a, Kaunas
+Savanorių pr. 266, Kaunas
+Taikos pr. 113, Kaunas
+Ežero g. 1, Kaunas
+Justiniškių g. 126, Vilnius
+F. Martišiaus g. 9a, Prienai
+Kalvarijų g. 143, Vilnius
+Brastos g. 9c, Kaunas
+Jėgainės g. 6, Kaunas
+Varnių g. 48e, Kaunas
+Lentvario g. 3, Vilnius
+Elektrėnų g. 8, Kaunas
+Vilniaus g. 3C, Šalčininkai
+Verkių g. 35, Vilnius
+Kalvarijos g. 13a, Kaunas
+H. ir O. Minkovskių g. 73d, Kaunas
+Elektrėnų g. 20, Kaunas
+Savanorių pr. 445, Kaunas
+Brastos g. 9b, Kaunas
+A. Juozapavičiaus pr. 3, Kaunas
+Daugėliškio g. 37/2, Vilnius
+Melioratorių g. 28A, Vilnius
+Kalvarijų g. 204A, Vilnius 
+Statybininkų g. 9, Kaunas
+Sietyno g. 8, Vilnius
+Ozo g. 20, Vilnius
+Ukmergės g. 280, Vilnius
+Ašigalio g. 6A, Kaunas
+Islandijos pl. 31, Kaunas 
+Ozo g. 10A, 08200 Vilnius
+Viršuliškių skg. 38, Vilnius
+Lakūnų g. 21 korpusas, Vilnius
+Europos pr. 50, Kaunas
+Lazdijų g. 20, Kaunas
+Uosio g. 10, 50133 Kaunas
+Savanorių pr. 16, Vilnius
+ Veiverių g. 148, Kaunas
+Minsko pl. 9, Vilnius
+Jonavos g. 32A, Kaunas
+Laisvės pr. 127, Vilnius 
+Molėtų pl. 14 km, Vilniaus raj.
+Laisvės pr. 43B, Vilnius
+Maironio g. 11, Kaunas
+Laisvės pr. 1, Vilnius
+Metalo g. 17, Vilnius
+Verkių g. 39, Vilnius 
+Mokslininkų g. 18, Vilnius
+9-ojo forto g. 47, Kaunas 
+Laisvės pr. 77A, Vilnius
+Dariaus ir Girėno g. 2, Vilnius
+Šaltupio g. 11A, Vilnius
+Pramonės pr. 103, Kaunas 
+Panerių g. 149, Kaunas
+Savanorių pr. 404G, 50301 Kaunas
+Granito g. 11, Vilnius
+Mokyklos g. 1b, Bukiškės, Vilniaus r.
+Pelesos g. 1/2, Vilnius
+Savanorių pr. 217, Vilnius
+A. Juozapavičiaus pr. 90, Kaunas
+J. Kubiliaus g. 23, Vilnius
+Taikos pr. 106M, Kaunas
+Ašigalio g. 6a, Kaunas
+Drobės g. 26, Kaunas
+Ateities pl. 30H, Kaunas
+Ozo g. 10A, 08200 Vilnius
+Veiverių g. 150, Kaunas
+Jočionių g. 14, Vilnius
+Veiverių g. 150, Kaunas
+Verkių g. 39, Vilnius
+9-ojo forto g. 47, Kaunas
+Savanorių pr. 190, Kaunas
+Algirdo g. 54, Kaunas
+Ozo g. 6, Vilnius
+Ukmergės g. 315C, 06306 Vilnius
+Ateities g. 10, Vilnius 
+Verkių g. 32a, LT-2042 Vilnius
+Savanorių 287-232, Kaunas
+Islandijos pl. 187-1A-12, Kaunas
+Islandijos pl. 101, Kaunas
+Pakalnės g. 13/1, Vilnius
+Armatūrininkų g. 1, Kaunas
+Viršuliškių skg. 78, Vilnius
+Dariaus ir Girėno g. 2, Vilnius
+Draugystės g. 19, Kaunas
+Gegužinių g. 10, Kaunas
+Vandžiogalos pl. 106, Domeikava
+Ukmergės g. 222, Vilnius
+Meistrų g. 11, Vilnius
+Taikos pr. 110B, Kaunas
+L. Asanavičiūtės g. 1A, Vilnius
+Veiverių g. 114, Kaunas
+V. Krėvės pr. 114, Kaunas
+Pergalės g. 36B, Grigaičiai, Vilniaus r.
+Raudondvario pl. 101/Brastos g. 9, Kaunas
+Linkmenų g. 17, Vilnius
+Draugystės g. 17, Kaunas
+Rytmečio g. 4, Voškoniai, Kauno raj.
+Gumbiškiai, Jonavos raj.
+Taikos pr. 92, Kaunas
+Drobės g. 39f, Kaunas
+Paeismilgio g. 17, Kėdainiai
+R. Kalantos g. 40, Kaunas
+Islandijos pl. 93-49, Kaunas 
+Islandijos pl. 209, Kaunas
+Piliuonos g. 2, Kaunas
+J. ir K. Aleksų g. 1, Kaunas
+Vytauto pr. 23a, Kaunas
+E. Ožeškienės 17 b, Kaunas 
+Z.Sierakausko g. 17-14, Vilnius
+Taikos pr. 161, Kaunas
+Kalvarijų g. 204, Vilnius
+Kalvarijų g. 121, Vilnius
+IX forto g. 60, Kaunas
+M. Jankaus g. 23, Kaunas
+Turgaus g. 34 - 22, Raseiniai
+Intako g. 3, Kaunas
+Ateities pl. 19, Kaunas
+Šiaurės pr. 106, Kaunas
+V.A. Graičiūno g. 10, Vilnius
+Žarijų g. 2, Vilnius
+Žalgirio g. 90, Vilnius
+Verkių g. 39, Vilnius 
+Ašmintos k., Ašmintos sen., Prienų r.
+H. ir O. Minkovskių g. 134, Kaunas
+Linkmenų g. 23, Vilnius
+Saldenės k., Avižienių sen., Vilniaus r. sav.
+Geležinio Vilko g. 33, Vilnius
+Raudondvario pl. 242B, Kaunas
+Kalniečių g. 149, Kaunas
+R. Jankausko g. 6, Vilnius
+Ašigalio g. 6, Kaunas
+Narėpai, Karmėlavos sen., Kauno raj.
+V.A. Graičiūno g. 36, Vilnius
+V. A. Graičiūno g. 10, Vilnius 
+Rūdupio k., Ašmintos sen., Prienų r.
+Mitkūnai, Šakių pl. 11 km, Kauno raj.
+Lauko g. 51, Nemenčinė, Vilniaus raj.
+Jonalaukio k., Ruklos sen., Jonavos r.
+Kalvarijų g. 143, Vilnius
+Taikos pr. 145, Kaunas
+A. Juozapavičiaus pr. 139, Kaunas
+Ramybės g. 4, Vilnius
+Pakalnės g. 5p, Domeikava, Kauno raj. 
+Chemijos g. 29, Kaunas
+Lentvario g. 16 , Vilnius
+Jašiūnų k., Šalčininkų r.
+Linkmenų g. 17, Vilnius
+Kranto g. 38, Grigiškės, Vilniaus m. sav.
+Kertupio g. 16, Neveronys, Kauno raj.
+Jankiškių g. 39, Vilnius
+Spanėnų k., Dumsių sen., Jonavos r.
+Metalo g. 8, Vilnius
+Jonavos g. 254, Kaunas
+Vyčio Kryžiaus g. 13, Kaunas
+Pikulo g. 116, LT-3026 Kaunas
+Galvės g. 2, Vilnius
+Kirtimų g. 41a, Vilnius
+Pramonės pr. 103, Kaunas
+Kalvarijų g. 206, Vilnius
+Dariaus ir Girėno g. 16A, Vilnius
+Šiltnamių g. 26a, Vilnius
+Partizanų g. 17, Kaunas
+Islandijos g. 85, Kaunas
+Rasų g. 3, Vilnius
+Savanorių pr. 312a, Kaunas
+Ozo g. 6, Vilnius
+Lakūnų g. 30, Vilnius
+Pelesos g. 1/2-7, Vilnius
+Jurbarko g. 32, Kaunas
+Taikos pr. 110B, Kaunas
+Elektrėnų g. 1, Kaunas
+Lygioji g. 3A, Kaunas
+J. Kubiliaus g. 23, Vilnius
+Sausupio g. 17, Vilnius
+Skuodo g. 2c, Kaunas
+P. Dovydaičio g. 8, Kaunas
+Verkių g. 32A, Vilnius
+Ukmergės g. 212a, Vilnius
+Lukšio g. 16, Vilnius
+Verslo g. 15, Kumpių k. Kauno r.
+Europos pr. 122, Kaunas
+Taikos pr. 13, Kaunas
+Pelėdnagiai, Kėdainių r.
+Jonavos g. 104, Kaunas
+Raudondvario pl. 99, Kaunas 
+Fabijoniškių g. 4, Vilnius
+Žirnių g. 10, Vilnius
+Europos pr. 122, Kaunas
+Sandėlių g. 11, Linksmakalnis, Kauno r.
+Kirtimų g. 51A, Vilnius
+J. Kazlausko g. 1, Vilnius
+Savanorių pr. 174A, Vilnius
+Kirtimų g. 11, Vilnius
+Vandžiogalos plentas, Domeikava, Kauno raj.
+Medeinos g. 16, Vilnius
+Žemynos g. 18, Vilnius
+Pakalnės g. 5b, Domeikava, Kauno raj.
+Panerių g. 51, Vilnius
+O. ir H. Minkovskių g. 73a, Kaunas
+Ozo g. 4, Vilnius 
+Liepkalnio g. 69, 2030 Vilnius
+Taikos pr. 104, Kaunas 51196
+Ukmergės g. 298a-1, Vilnius
+Metalo g. 7, Vilnius
+Taikos pr. 149, Kaunas 
+Savanorių 174A, Vilnius
+Kovo 11-osios g. 23, Kaunas
+Metalo g. 4, Vilnius 
+Kalvarijos g. 136, Kaunas
+Ukmergės g. 19, Jonava
+V. Krėvės pr. 128F, Kaunas
+Kirtimų g. 2, Vilnius
+Galinės k., Avižienių sen., Vilnius
+Ateities pl. 30b, Kaunas
+Darbininkų g. 9, Jonava
+Birbynių g. 4a, Vilnius
+Jankiškių g. 41, Vilnius
+Vandžiogalos g. 110A, Domeikava, Kauno raj.
+Pramonės g. 14, Vaidotų k., Vilniaus raj.
+Taikos pr. 112, Kaunas
+Jonalaukio g. 10, Jonava
+Lentvario g. 14B, Vilnius
+Kernavės g. 86, Vilnius
+Taikos pr. 135, Kaunas
+Ateities pl. 54, Kaunas
+Plento g. 20, Užliedžiai, Kauno r.
+Kirtimų g. 41a, Vilnius
+Mokyklos g. 1, Bukiškis, Vilniaus raj.
+Ateities pl. 32, Kaunas
+Sausupio g. 17, Vilnius
+Lentvario g. 7, Vilnius 
+Dariaus ir Girėno g. 113, Vilnius
+Šešuvos km., Jonavos raj.
+Marijampolės g. 23, Pagirių km., Garliava
+Skuodo g. 3, Kaunas
+Ūkininkų g. 8, Juragiai
+Pakraščio g. 10, Vilnius
+Savanorių pr. 129, Vilnius
+Pakalnės g. 5b, Domeikava, Kauno r.
+Kęstučio g. 93, Prienai
+Užugriovių k., Riešės apyl., Vilniaus r.
+Ateities pl. 30g, Kaunas
+Dariaus ir Girėno g. 19, Vilnius
+Armoniškių g. 37, Kaunas
+Tulpių g. 3, Avižieniai, Vilnius
+Darbininkų g. 11a, Jonava
+Galvės g. 2, Vilnius
+Eišiškių pl. 25a, Vilnius
+Dariaus ir Girėno g. 107, Vilnius
+Liudvinavo g.1B, Vilnius
+Didžioji gatvė, Vilniaus rajonas 
+Verkių g. 48, Kaunas
+Aušros g. 11, Raseiniai
+Melioratorių g. 4a, Šalčininkai
+Taikos pr. 116c, Kaunas
+Kalvarijos g. 28a, Kaunas
+Verkių g. 50, Vilnius
+Stasylų g. 21, Vilnius
+Radvilų Dvaro g. 6, Kaunas
+Ateities pl. 30d, Kaunas
+Jaunystės g. 1, Vievis
+Vytenio g. 10, Vilnius
+Karkazų k., Garliavos sen., Kauno raj.
+Karkiškės, Kauno r.
+Ukmergės g. 212A, Vilnius 
+V. Krėvės pr. 112a, Kaunas
+Partizanų g. 87a, Kaunas
+Neries krantinė 18b, Kaunas
+Jonavos g. 140, Kaunas 
+Abromiškių km., Elektrėnų sav.
+Vytauto g. 170, Garliava
+Savanorių pr. 163, Vilnius
+Savanorių pr. 119, Vilnius 
+Kalvarijos g. 28A, Kaunas
+Šeškinės g. 2, Vilnius
+Sausio 13-osios g. 1, Vilnius
+Tvirtovės al.62, Kaunas 
+Islandijos pl. 77, Kaunas
+Islandijos pl. 131F, Kaunas
+Geležinio Vilko g. 2, Vilnius
+Šaldytuvų g., Kaunas
+Bijūnų g. 3/ Neries Krantinė, Kaunas
+Pramonės pr. 19, 393 garažas, Kaunas
+Ukmergės g. 315b, Vilnius
+Žirmūnų g. 106, Vilnius
+Ašigalio g. 28-101, Kaunas
+Daugėliškio g. 32, Vilnius
+Ašmenos g. 39, Kaunas
+Europos pr. 48, Kaunas
+R. Kalantos g. 34-49, Kaunas
+Dubysos g. 58, Klaipėda
+Liejyklos g. 5A, Šiauliai
+Aukštaičių g. 3B/Metalo g., Utena
+S. Kerbedžio g. 21, Panevėžys
+Veiverių g. 132, Aleksotas, Kaunas
+veiveriu 132, Kaunas
+Nidos g. 34, Panevėžys
+Smiltelės g. 19, Klaipėda
+Taikos pr. 161a, Kaunas
+Baltijos g.41, Kaunas
+VILKPEDES 6, VILNIUS
+R.Kalantos g. 13, Kaunas
+M. Katkaus 17, Vilnius
+Islandijos pl 1-0A, Kaunas
+Islandijos pl1A, Kaunas
+P. Lukšio g. 18, Vilnius
+Ausros 67 - 51, Utena
+Savanorių pr, 178, Vilnius
+Karlų km., Visagino sav., Visaginas
+Mokslininkų g. 18, Vilnius
+Kalvarijų g. 206A, Vilnius
+Kalvarijų g. 206A, Vilnius
+Ukmergės g. 373, Vilnius
+Vieversių g, 8, liepkalnis, Vilnius
